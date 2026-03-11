@@ -1,0 +1,10 @@
+C:\Users\radu\source\repos\seminar_3\seminar_3\bin\Debug\seminar_3.exe.config
+C:\Users\radu\source\repos\seminar_3\seminar_3\bin\Debug\seminar_3.exe
+C:\Users\radu\source\repos\seminar_3\seminar_3\bin\Debug\seminar_3.pdb
+C:\Users\radu\source\repos\seminar_3\seminar_3\obj\Debug\seminar_3.csproj.AssemblyReference.cache
+C:\Users\radu\source\repos\seminar_3\seminar_3\obj\Debug\seminar_3.Form1.resources
+C:\Users\radu\source\repos\seminar_3\seminar_3\obj\Debug\seminar_3.Properties.Resources.resources
+C:\Users\radu\source\repos\seminar_3\seminar_3\obj\Debug\seminar_3.csproj.GenerateResource.cache
+C:\Users\radu\source\repos\seminar_3\seminar_3\obj\Debug\seminar_3.csproj.CoreCompileInputs.cache
+C:\Users\radu\source\repos\seminar_3\seminar_3\obj\Debug\seminar_3.exe
+C:\Users\radu\source\repos\seminar_3\seminar_3\obj\Debug\seminar_3.pdb
