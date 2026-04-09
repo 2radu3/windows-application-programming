@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace seminar_04
 {
+    [Serializable]
     internal class Student
     {
         private string nume;
