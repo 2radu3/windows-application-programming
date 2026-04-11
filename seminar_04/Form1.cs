@@ -5,7 +5,6 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
-using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -101,23 +100,5 @@ namespace seminar_04
             }
         }
 
-        private void saveToolStripMenuItem1_Click(object sender, EventArgs e) {
-            FileStream fs = new FileStream("studenti.dat", FileMode.Create, FileAccess.Write);
-            BinaryFormatter bf = new BinaryFormatter();
-            bf.Serialize(fs, studenti);
-            fs.Close();
-            MessageBox.Show("S-a salvat fisierul studenti.dat");
-        }
-
-        private void openToolStripMenuItem1_Click(object sender, EventArgs e) {
-            FileStream fs = new FileStream("studenti.dat", FileMode.Open, FileAccess.Read);
-            BinaryFormatter bf = new BinaryFormatter();
-            List<Student> listaStudenti = (List<Student>) bf.Deserialize(fs);
-            foreach(Student s in listaStudenti) {
-                tbStud.Text += s.ToString() + "\n";
-            }
-            fs.Close(); 
-            MessageBox.Show("S-a salvat fisierul studenti.dat");
-        }
     }
 }
