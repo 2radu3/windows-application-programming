@@ -1,0 +1,7 @@
+1|Ionescu|Andrei|Conf. Dr.
+2|Dorian|Popa|Prof. Univ.
+3|MIrcea|Eliade|Lector
+4|Nicusor|Gioconda|Asistent
+5|Balanescu|Radu-Valentin|Lector
+6|Mos|Craciun|Conf. Dr.
+7|salut|buna|Asistent

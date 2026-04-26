@@ -1,0 +1,15 @@
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\bin\Debug\Project.exe.config
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\bin\Debug\Project.exe
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\bin\Debug\Project.pdb
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.FormAfisareOrar.resources
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.exe
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.pdb
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.FormAdaugaSala.resources
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.FormStergeSala.resources
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.FormAdaugaMaterie.resources
+C:\Users\radau\source\repos\2radu3\windows-application-programming\Project\Project\obj\Debug\Project.FormStergeMaterie.resources
