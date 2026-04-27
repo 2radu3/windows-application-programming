@@ -1,0 +1,10 @@
+C:\Users\radau\source\repos\teste1\teste1\bin\Debug\teste1.exe.config
+C:\Users\radau\source\repos\teste1\teste1\bin\Debug\teste1.exe
+C:\Users\radau\source\repos\teste1\teste1\bin\Debug\teste1.pdb
+C:\Users\radau\source\repos\teste1\teste1\obj\Debug\teste1.csproj.AssemblyReference.cache
+C:\Users\radau\source\repos\teste1\teste1\obj\Debug\teste1.Properties.Resources.resources
+C:\Users\radau\source\repos\teste1\teste1\obj\Debug\teste1.csproj.GenerateResource.cache
+C:\Users\radau\source\repos\teste1\teste1\obj\Debug\teste1.csproj.CoreCompileInputs.cache
+C:\Users\radau\source\repos\teste1\teste1\obj\Debug\teste1.exe
+C:\Users\radau\source\repos\teste1\teste1\obj\Debug\teste1.pdb
+C:\Users\radau\source\repos\teste1\teste1\obj\Debug\teste1.Form1.resources
